@@ -26,8 +26,8 @@ sudo apt-get install libcairo2-dev libpng-dev
 2. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/mlp-line-classification.git
-cd mlp-line-classification
+git clone https://github.com/yourusername/miniPerceptron.git
+cd miniPerceptron
 ```
 
 ## Compilation
@@ -35,7 +35,7 @@ cd mlp-line-classification
 Compile the project using the following command:
 
 ```bash
-gcc -o mlp_classification main.c -lm -lcairo -lpng
+gcc -o mlp_classification mlp.c -lm -lcairo -lpng
 ```
 
 ## Usage
