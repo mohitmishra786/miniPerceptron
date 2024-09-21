@@ -4,7 +4,7 @@
 #include <time.h>
 #include <cairo.h>
 #include <string.h>
-#include <sys/stat.h> // Include for mkdir
+#include <sys/stat.h>
 
 #define MAX_EPOCHS 10000
 #define EPSILON 1e-3
