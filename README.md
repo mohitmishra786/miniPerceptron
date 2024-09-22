@@ -1,5 +1,5 @@
 # MLP Line Classification
-![](https://komarev.com/ghpvc/?username=mohitmishra786&color=green)
+
 This project implements a Multi-Layer Perceptron (MLP) from scratch in C to classify points relative to a curve. The MLP learns to distinguish between points above and below a configurable curve, which can be linear, quadratic, or sinusoidal.
 
 ## Features
